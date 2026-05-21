@@ -123,7 +123,7 @@ export default function Portfolio() {
           </a>
 
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/rajeev__ai?igsh=dHE3NG1hcmVpOG9h"
             target="_blank"
             className="px-6 py-3 rounded-2xl border border-[#AEFF46] hover:bg-[#AEFF46] hover:text-[#212121] transition duration-300"
           >
