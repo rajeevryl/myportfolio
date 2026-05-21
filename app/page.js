@@ -41,7 +41,7 @@ export default function Portfolio() {
     title: "AI Virtual Mouse",
     description:
       "Control computer mouse using hand gestures with OpenCV and Python.",
-    github: "https://github.com/rajeevryl/virtualtouch",
+    github: "https://github.com/rajeevryl/aivirtualmouse",
     image:
       "https://cdn-icons-png.flaticon.com/512/906/906324.png",
   },
