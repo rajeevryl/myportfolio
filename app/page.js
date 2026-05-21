@@ -13,10 +13,10 @@ export default function Portfolio() {
   const certifications = [
   {
     title: "Google AI Certification",
-    issuer: "Google",
+    issuer: "VTU",
     image:
       "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
-    link: "https://google.com",
+    link: "file:///C:/Users/Admin/Downloads/certificate_6407a871-6c4c-4b98-a4f5-4aac63445efd_copy.pdf",
   },
 
   {
