@@ -12,11 +12,11 @@ export default function Portfolio() {
 
   const certifications = [
   {
-    title: "Google AI Certification",
+    title: "Research Methodologies and IPR",
     issuer: "VTU",
     image:
       "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
-    link: "file:///C:/Users/Admin/Downloads/certificate_6407a871-6c4c-4b98-a4f5-4aac63445efd_copy.pdf",
+    link: "https://online.vtu.ac.in/v1/course-exam-certificate/6407a871-6c4c-4b98-a4f5-4aac63445efd",
   },
 
   {
