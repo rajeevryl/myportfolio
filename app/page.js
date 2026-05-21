@@ -229,7 +229,7 @@ export default function Portfolio() {
 </section>
 
       <footer className="border-t border-[#AEFF46]/20 py-8 text-center text-gray-400 text-sm">
-        © 2026 Your Portfolio • Designed with creativity ⚡
+        © 2026 My Portfolio • Designed by Rajeev Rayal
       </footer>
     </div>
   );
