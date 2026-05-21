@@ -41,7 +41,7 @@ export default function Portfolio() {
     title: "AI Virtual Mouse",
     description:
       "Control computer mouse using hand gestures with OpenCV and Python.",
-    github: "https://github.com/rajeevryl/AI-Virtual-Mouse",
+    github: "https://github.com/rajeevryl/virtualtouch",
     image:
       "https://cdn-icons-png.flaticon.com/512/906/906324.png",
   },
@@ -50,7 +50,7 @@ export default function Portfolio() {
     title: "News CMS Website",
     description:
       "Modern news publishing platform with admin dashboard and authentication.",
-    github: "https://github.com/rajeevryl/press-cms",
+    github: "https://github.com/rajeevryl/pulsenews",
     image:
       "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
   },
