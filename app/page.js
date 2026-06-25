@@ -1,13 +1,10 @@
 export default function Portfolio() {
   const skills = [
-    "Java",
-    "Python",
-    "React",
-    "JavaScript",
     "HTML",
     "CSS",
+    "Python",
+    "C",
     "AI Tools",
-    "Machine Learning",
   ];
 
   const certifications = [
