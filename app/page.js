@@ -17,11 +17,11 @@ export default function Portfolio() {
   },
 
   {
-    title: "Full Stack Development",
-    issuer: "Udemy",
+    title: "Gen AI Snap AR",
+    issuer: "Snap AR",
     image:
       "https://cdn-icons-png.flaticon.com/512/5968/5968389.png",
-    link: "https://udemy.com",
+    link: "https://drive.google.com/file/d/1HZ1qhT1NHZuz8CD7kkxxk42SKI9X9rs2/view?usp=drive_link",
   },
 
   {
