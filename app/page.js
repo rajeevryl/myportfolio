@@ -25,11 +25,11 @@ export default function Portfolio() {
   },
 
   {
-    title: "Machine Learning",
-    issuer: "Coursera",
+    title: "Data Science Internship",
+    issuer: "ShriTeck",
     image:
       "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
-    link: "https://coursera.org",
+    link: "https://drive.google.com/file/d/1EhgsEthrddI0_f3YGVs_Sjk6DckedE07/view?usp=drive_link",
   },
 ];
 
