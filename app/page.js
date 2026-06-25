@@ -12,7 +12,7 @@ export default function Portfolio() {
     title: "Research Methodologies and IPR",
     issuer: "VTU",
     image:
-      "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "https://www.pngitem.com/middle/wbToT_research-vector-research-clipart-transparent-background-hd-png/",
     link: "https://online.vtu.ac.in/v1/course-exam-certificate/6407a871-6c4c-4b98-a4f5-4aac63445efd",
   },
 
